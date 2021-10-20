@@ -3,3 +3,4 @@ git practice
 ・git add
 ・git commit
 ・git remove
+・git status
